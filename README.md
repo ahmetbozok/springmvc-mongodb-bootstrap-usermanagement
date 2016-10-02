@@ -1,4 +1,4 @@
-# springmvc.usermanagement
+# User Management Page (Spring 3 MVC & Bootstrap & MongoDb Project)
 
 This project just an example to understand how to use **spring mvc & mongo db crud** operations. In this project you can also find some example about using **boostrap modal dialog, form validation with ajax call and recaptcha google api**. 
 
