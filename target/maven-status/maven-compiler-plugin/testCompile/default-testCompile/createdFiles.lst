@@ -1,0 +1,3 @@
+com\springmvc\usermanagement\controller\UserManagementControllerTest.class
+com\springmvc\usermanagement\dao\UserDAOIntegrationTest.class
+com\springmvc\usermanagement\service\UserDataServciceTest.class

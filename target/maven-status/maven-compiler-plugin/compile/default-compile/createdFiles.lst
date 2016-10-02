@@ -1,0 +1,12 @@
+com\springmvc\usermanagement\model\User.class
+com\springmvc\usermanagement\controller\UserManagementController.class
+com\springmvc\usermanagement\model\FormValidationAttribute.class
+com\springmvc\usermanagement\model\ErrorMessage.class
+com\springmvc\usermanagement\exception\UserExistException.class
+com\springmvc\usermanagement\model\ValidationResponse.class
+com\springmvc\usermanagement\dao\UserDAOImpl.class
+com\springmvc\usermanagement\dao\UserDAO.class
+com\springmvc\usermanagement\service\DataService.class
+com\springmvc\usermanagement\model\AjaxCallResponse.class
+com\springmvc\usermanagement\service\DataServiceImp.class
+com\springmvc\usermanagement\model\UserAttribute.class
